@@ -9,24 +9,17 @@ menu:
     url: archives
     intro: ""
     icon: "fa fa-list"
-  - title: 分类 
-    url: categories
-    intro: ""
-    icon: "fa fa-folder"
-  - title: 关于
-    url: about
+  - title: 个人简历
+    url: gc-resume
     intro: ""
     icon: "fa fa-info-circle"
-  - title: RSS
-    url: atom.xml
-    intro: ""
-    icon: "fa fa-rss"
 
 links:
   - title: "source"
-    url: http://www.github.com/wayou
+    url: http://www.github.com/gui-che
     intro: "My Github account."
     icon: "fa fa-github"
+
 
 widgets:
 # - search
