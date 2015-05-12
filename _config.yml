@@ -9,7 +9,7 @@ menu:
     url: archives
     intro: ""
     icon: "fa fa-list"
-  - title: 个人简历
+  - title: 关于博主
     url: gc-resume
     intro: ""
     icon: "fa fa-info-circle"
