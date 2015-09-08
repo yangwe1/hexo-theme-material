@@ -30,5 +30,6 @@ widgets:
 
 rss: 
 fancybox: false
-favicon: favicon.png
+favicon: favicon.ico
+
 google_analytics: 
