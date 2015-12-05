@@ -2,7 +2,7 @@
 
 menu:
   - title: 首页
-    url: 
+    url:
     intro: ""
     icon: "fa fa-home"
   - title: 存档
@@ -25,11 +25,14 @@ widgets:
 # - search
 - category
 # - tagcloud
-- recent_posts  
+- recent_posts
 - links
 
-rss: 
+rss:
 fancybox: false
 favicon: favicon.ico
 
-google_analytics: 
+google_analytics:
+
+enforce_ssl:
+chrome_tab_color: #67A0E1
